@@ -30,7 +30,7 @@ twitter_username: none
 github_username:  gamdez
 
 # Build settings
-theme: Tactile
+theme: Cayman
 plugins:
   - jekyll-feed
 
