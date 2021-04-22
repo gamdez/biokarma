@@ -30,7 +30,7 @@ twitter_username: none
 github_username:  gamdez
 
 # Build settings
-theme: Cayman
+theme: minima
 plugins:
   - jekyll-feed
 
