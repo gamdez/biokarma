@@ -28,7 +28,7 @@ twitter_username: none
 github_username:  gamdez
 
 # Build settings
-theme:'Minimal'
+theme:'jekyll-theme-minimal'
 plugins:
   - jekyll-feed
 
