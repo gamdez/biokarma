@@ -6,6 +6,8 @@ categories: Python
 
 # Usando la función dict()
 
+![diccionario](/assets/leaf-icon.png)
+
 Esto es una breve explicación sobre cómo en un caso específico, se dió uso a
 esta función de una manera que me pareció muy interesante.
 
@@ -14,8 +16,9 @@ diccionario {letra: morse}, fué posible crear su equivalente {morse: letra}
 usando esta función, lo que permite evitar tener que escribir un diccionario
 completo nuévamente.
 
-> # Diccionario para el código Morse.
-abc_a_morse = {'a': '.-', 'b': '-...', 'c': '-.-.', 'd': '-..',
+El diccionario para el código Morse sería el siguiente:
+
+>abc_a_morse = {'a': '.-', 'b': '-...', 'c': '-.-.', 'd': '-..',
                'e': '.', 'f': '..-.', 'g': '--.', 'h': '....',
                'i': '..', 'j': '.---', 'k': '-.-', 'l': '.-..',
                'm': '--', 'n': '-.', 'o': '---', 'p': '.--.',
