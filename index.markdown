@@ -5,4 +5,5 @@
 #layout: default (para minimal)
 layout: home
 ---
-![leaf](/assets/leaf-icon.png)
+
+<p align='center'> ![leaf](/assets/leaf-icon.png) </p>
