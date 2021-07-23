@@ -5,3 +5,4 @@
 #layout: default (para minimal)
 layout: home
 ---
+![leaf](/assets/leaf-icon.png)
