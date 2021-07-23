@@ -19,7 +19,7 @@ completo nuévamente.
 El diccionario para el código Morse sería el siguiente:
 
 {% highlight ruby %}
->abc_a_morse = {'a': '.-', 'b': '-...', 'c': '-.-.', 'd': '-..',
+abc_a_morse = {'a': '.-', 'b': '-...', 'c': '-.-.', 'd': '-..',
                'e': '.', 'f': '..-.', 'g': '--.', 'h': '....',
                'i': '..', 'j': '.---', 'k': '-.-', 'l': '.-..',
                'm': '--', 'n': '-.', 'o': '---', 'p': '.--.',
@@ -35,8 +35,11 @@ El diccionario para el código Morse sería el siguiente:
 Ahora, para conseguir el diccionario con los valores de código Morse a letras,
 bastaría con la siguiente línea de código:
 
-> morse_a_abc = dict(value, key) for key, value in abc_a_morse.items())
+{% higlight ruby%}
+morse_a_abc = dict(value, key) for key, value in abc_a_morse.items())
+{% endhighlight %}
 
 y listo!
+
 
 Fuente: Profesor Michael Eramo.

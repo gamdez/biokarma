@@ -6,4 +6,4 @@
 layout: home
 ---
 
-<p align='center'> ![leaf](/assets/leaf-icon.png) </p>
+![leaf](/assets/leaf-icon.png)
