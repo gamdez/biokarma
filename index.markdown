@@ -5,4 +5,4 @@
 #layout: default (para minimal)
 layout: home
 ---
-# Hola 
+Hola, esto es una prueba. Espero que funcione.
