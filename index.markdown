@@ -5,4 +5,4 @@
 #layout: default (para minimal)
 layout: home
 ---
-![Es un pájaro, es un avión?](/assets/chulo_blog.png "Un chulo")
+![un_chulo](/assets/chulo_blog.png "un chulo")
