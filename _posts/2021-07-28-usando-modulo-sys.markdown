@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Utilizando el módulo sys, para configurar una ruta (path)
 categories: python
 ---

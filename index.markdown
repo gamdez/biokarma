@@ -5,4 +5,4 @@
 #layout: default (para minimal)
 layout: home
 ---
-![un_chulo](/assets/chulo_180.png "un chulo")
+![un_chulo](/assets/chulo_blog.png "un chulo")
