@@ -35,7 +35,7 @@ abc_a_morse = {'a': '.-', 'b': '-...', 'c': '-.-.', 'd': '-..',
 Ahora, para conseguir el diccionario con los valores de código Morse a letras,
 bastaría con la siguiente línea de código:
 
-{% higlight ruby%}
+{% highlight ruby%}
 morse_a_abc = dict(value, key) for key, value in abc_a_morse.items())
 {% endhighlight %}
 
