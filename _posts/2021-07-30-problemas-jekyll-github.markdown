@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Sobre algunos problemas que tuve con jekyll en github
 categories: jekyll
 ---
