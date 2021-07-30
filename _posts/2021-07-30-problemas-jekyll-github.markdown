@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Sobre algunos problemas que tuve con jekyll en github
-categories: jekyll
 ---
+
 Hace algunos dias tuve un problema un tanto desesperante con la página que
 github permite tener, utilizando jekyll.
 
