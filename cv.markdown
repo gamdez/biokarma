@@ -3,16 +3,17 @@ layout: page
 title: CV
 permalink: /CV/
 ---
-###Estudios
+
+Estudios
 |Universitarios|
 ---
 |Unviversidad Cooperativa de Colombia|
 ---
 |Médico Veterinario Zootecnista|
 
-###Pasantías
+Pasantías
 |Universidad Nacional de Colombia - Bogotá.|
 ---
 |Laboratorio de Ictiología y peces ornamentales|
 
-### Proyectos personales
+Proyectos personales
