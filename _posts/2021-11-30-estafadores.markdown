@@ -6,16 +6,16 @@ title: Estafadores en telegram
 Hace mucho tiempo no escribía nada. Y y se que cuando lo hago, lo hago mal,
 así que no importa.
 
-No soy un experto en telegram ni nada parecido, lo uso de vez en cuando.
-Aún no es muy popular, pero me gusta. Sin embargo, no es la primera
+Uso Telegram de vez en cuando. Aún no es muy popular, pero me gusta. 
+Sin embargo, no es la primera
 vez que de la nada personas que no conozco de repente me escriben.
 
 También sé que lo que voy a escribir a continuación no es ningún descubrimiento,
-cláramente no es nada nuevo, tampoco pretendo hacer alarde o ufanarme de 
-mí mismo o de alguna habilidad (brillan por su ausencia). Es símplemente mi 
-deseo por escribir alguna cosa.
+tampoco pretendo hacer alarde o ufanarme de mí mismo o de alguna habilidad 
+(que más bien brillan por su ausencia). 
 
 Trataré de ser breve:
+
 
 **Quién me escribió:**
 - Mujer, mayor de 50 años.
@@ -29,7 +29,8 @@ Trataré de ser breve:
 exitosa.
 
 **Con qué Métodos**
-Una charla acosadora y extensa (varios días) en donde de manera muy breve
+
+Una charla acosadora (varios días) en donde de manera muy breve
 me cuentan lo exitosa que es la compañía, las grandes ganancias diarias 
 que se obtiene al invertir con ellos. Me mostraron pantallazos de los
 ingresos diarios desorbitantes, etc... Una demostración realmente patética
@@ -45,6 +46,7 @@ que en latinoamérica no traducimos sobre jerga del internet fué lo que me
 hizo darme cuenta.
 
 **Algunos Detalles** (Calmado Sr Holmes)
+
 - Escribía en horas de la madrugada en algunas ocasiones (huso horario diferente)
 - Insistencia y urgencia por hacer el procedimiento de inscripción en la página.
 - El estafador es una persona que no habla español. (Extranjero)
