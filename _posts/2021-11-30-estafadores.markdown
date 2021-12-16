@@ -12,7 +12,7 @@ vez que de la nada personas que no conozco de repente me escriben.
 
 También sé que lo que voy a escribir a continuación no es ningún descubrimiento,
 tampoco pretendo hacer alarde o ufanarme de mí mismo o de alguna habilidad 
-(que más bien brillan por su ausencia). 
+(más bien brillan por su ausencia). 
 
 Trataré de ser breve:
 
@@ -35,7 +35,7 @@ me cuentan lo exitosa que es la compañía, las grandes ganancias diarias
 que se obtiene al invertir con ellos. Me mostraron pantallazos de los
 ingresos diarios desorbitantes, etc... Una demostración realmente patética
 para intentar convencerme. En algún punto sentí lástima por esa persona y
-de repente hasta darle algún consejo. En fin, me cansé de preguntarle cosas,
+de repente quise hasta darle algún consejo. En fin, me cansé de preguntarle cosas,
 y después de un tiempo, me escribe el mismísimo CEO de la superempresa.
 Nunca respondí. Seguido a éste CEO, me escriben otras dos personas más.
 
@@ -43,7 +43,7 @@ No sé por qué me tomó varias lineas de conversación darme cuenta de algo
 muy particular. Esto habla bien de los avances de los sistemas de traducción
 en línea que son cada vez más eficientes al parecer. Palabras específicas
 que en latinoamérica no traducimos sobre jerga del internet fué lo que me 
-hizo darme cuenta.
+hizo dar cuenta.
 
 **Algunos Detalles** (Calmado Sr Holmes)
 
@@ -54,7 +54,8 @@ hizo darme cuenta.
 - La página de internet llevaba 18 días creada.
 
 
-continuará...
+Finalmente terminé por aburrirme del asunto y bloqueé a todas esas personas.
+Y ese es el fin de la historia.
 
 
 
