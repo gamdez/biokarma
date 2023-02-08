@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python. Función: isinstance()
+title: Utilizando isinstance()
 ---
 isinstance(dato, tipo de datos)
 
