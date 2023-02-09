@@ -1,21 +1,20 @@
 ---
 layout: post
 title: Utilizando .gitignore
-categories: Python
 ---
 
-Sucede que haciendo un ejercicio quise crear un ambiente virtual tal y como era sugerido en éste; y como todo lo que hago lo 'subo' a github, me encontré con la pequeña sorpresa de que el montón de archivos creados para éste propósito (el ambiente virtual en éste caso crea una carpeta 'venv' con todas la configuraciones que necesita) también eran 'tomados' por git, para ser subidos como tal. 
+Sucede que haciendo un ejercicio quise crear un ambiente virtual tal y como era sugerido en éste; y como todo lo que hago lo 'subo' a github, me encontré con la pequeña sorpresa de que el montón de archivos creados para éste propósito (el ambiente virtual en éste caso crea una carpeta 'venv' con todas la configuraciones que necesita) también eran 'tomados' por git, para ser subidos como tal.
 
-Ahora, esto me pasa porque por lo general para para añadir los archivos en los que he trabajado, lo hago todo de una vez de la siguiente manera: 
+Ahora, esto me pasa porque por lo general para para añadir los archivos en los que he trabajado, lo hago todo de una vez de la siguiente manera:
 
 {% highlight ruby %}
-git add -A
+>>> git add -A
 {% endhiglight%}
 
 Añado para hacer ‘commit’ todos los archivos modificados hasta el momento. Una de las cosas que pude haber hecho para evitar que tomara la carpeta del ambiente virtual, pudo haber sido, indicar con git add solamente el archivo necesario.
 
 {% highlight ruby %}
-git add archivo_para_hacer_commit
+>>> git add archivo_para_hacer_commit
 {% endhiglight%}
 
 ‘¿A qué me lleva toda esta explicación finalmente?’
